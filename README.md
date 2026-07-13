@@ -24,4 +24,4 @@ El sistema genera automáticamente visualizaciones comparativas en subgráficos 
 ![Error Absoluto vs Tamaño de Paso](error_loglog.png)
 
 ### Conclusiones Computacionales
-Al ejecutar el modelo se comprueba empíricamente cómo el **Método de Numerov optimiza el tiempo computacional** frente a RK4 para ecuaciones de la forma $y'' = f(x, y)$, manteniendo la estabilidad del orden de convergencia de cuarto orden ($O(h^4)$) con un menor número de evaluaciones funcionales por iteración.
+Al ejecutar el modelo se comprueba empíricamente cómo el **Método de Numerov optimiza el tiempo computacional** frente a RK4 para ecuaciones de la forma $y'' = f(x, y)$, manteniendo la estabilidad del orden de convergencia de cuarto orden ( $O(h^4)$ ) con un menor número de evaluaciones funcionales por iteración.
